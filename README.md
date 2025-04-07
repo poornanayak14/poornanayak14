@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poornanayak14
+- 👋 Hi, I’m Poorna!
 - 👀 I’m a Softwear Developer mainly focussing on Front-end developments.
 - 🌱 Expertise in React JS, Redux, HTML5, CSS, JavaScript, Typescript, Material UI, Tailwind CSS, Bootstrap, and Unit Testing | Proficient in Python, Django, Node.js, Express and GraphQL.
 - 📫 How to reach me : nayakpoorna14@gmail.com , https://www.linkedin.com/in/poorna-nayak-4a051ab1/
